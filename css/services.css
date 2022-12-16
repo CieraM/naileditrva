@@ -1,0 +1,137 @@
+@import url("https://use.typekit.net/kom6bgn.css");
+
+body {			
+    font-family: forma-djr-banner, arial, sans-serif; 
+    font-style: normal;
+    font-weight: 100;
+    background-color: white;
+    letter-spacing: 1px;
+}
+
+.main ul li{
+    color: black;
+    font-size: 15px;
+    list-style-type: none;
+    float: left;
+}
+
+.main ul li a{
+    color: black;
+    text-decoration: none;
+    margin: 1px;
+    padding: 2px 75px;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.main ul li a:hover{
+    background-color: black;
+    color: white;
+}
+
+body {
+    margin: 0 auto;
+}
+
+.main {
+    max-width:1170px;
+    margin: 0 auto;
+}
+
+.main ul{
+    margin: auto;
+    padding: 50px 0 0;
+    list-style: none;
+    text-align: right;
+}
+
+.main ul li{
+    float: none;
+    display: inline-block;
+}
+.main ul li:nth-child(1){
+    float: left;
+}
+.main ul li:nth-child(2){
+    float: left;
+}
+
+.logo {
+    position: absolute;
+    left: 50%;
+    top: 0px;
+    margin-left: -110px;  
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    background: black;
+    margin-top: 50px;
+}
+
+.img-fluid {
+    width: 100%;
+    display: block;
+}
+
+.clear {
+    clear: both;
+}
+
+.head2 {
+    font-size: 35px;
+    font-weight: 300;
+    margin-bottom: 0px;
+}
+
+.text-style p {
+    font-size: 24px;
+    font-weight: 300;
+    line-height:34px;
+}
+
+.text1 {
+    padding-left: 30px;
+}
+
+.text2 {
+    padding-right: 30px;
+}
+
+.left-content {
+    width: 700px;
+    float: left;
+}
+
+.right-content {
+    width: 700px;
+    float: right;
+    margin-top: -200px;
+}
+
+.div2 {
+    width: 60%;
+    float: left;
+}
+
+.div1 {
+    width: 40%;
+    float: left;
+}
+
+.button a {
+    display: inline-block;
+    border: 1px solid black;
+    color: black;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-weight: 200;
+    font-size: 15px;
+    margin-top: 20px;
+    text-align: center;
+}
+.button a:hover{
+    background-color: black;
+    color: white;
+}
